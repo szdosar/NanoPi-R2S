@@ -1,4 +1,4 @@
-name: NanoPi-R2S RK3328 OpenWrt Build
+name: ipk NanoPi-R2S RK3328 OpenWrt Build
 
 on:
   repository_dispatch:
